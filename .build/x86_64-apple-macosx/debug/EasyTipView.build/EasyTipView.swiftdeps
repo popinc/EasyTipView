@@ -1,0 +1,20 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "EasyTipView"
+provides-nominal:
+- "11EasyTipViewAAV"
+provides-member:
+- ["11EasyTipViewAAV", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "EasyTipView"
+- "StringLiteralType"
+depends-member:
+- ["11EasyTipViewAAV", "init"]
+- ["11EasyTipViewAAV", "text"]
+depends-nominal:
+- "11EasyTipViewAAV"
+depends-dynamic-lookup:
+depends-external:
+- "/Users/marc/dev/EasyTipView/.build/x86_64-apple-macosx/debug/EasyTipView.build/module.modulemap"
+interface-hash: "ad6d381d0ab0efd6f51271d25a5d28da"

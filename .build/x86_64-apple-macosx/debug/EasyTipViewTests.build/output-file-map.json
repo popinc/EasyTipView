@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/marc/dev/EasyTipView/.build/x86_64-apple-macosx/debug/EasyTipViewTests.build/master.swiftdeps"
+  },
+  "/Users/marc/dev/EasyTipView/Tests/EasyTipViewTests.swift": {
+    "dependencies": "/Users/marc/dev/EasyTipView/.build/x86_64-apple-macosx/debug/EasyTipViewTests.build/EasyTipViewTests.d",
+    "object": "/Users/marc/dev/EasyTipView/.build/x86_64-apple-macosx/debug/EasyTipViewTests.build/EasyTipViewTests.swift.o",
+    "swiftmodule": "/Users/marc/dev/EasyTipView/.build/x86_64-apple-macosx/debug/EasyTipViewTests.build/EasyTipViewTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/marc/dev/EasyTipView/.build/x86_64-apple-macosx/debug/EasyTipViewTests.build/EasyTipViewTests.swiftdeps"
+  }
+}

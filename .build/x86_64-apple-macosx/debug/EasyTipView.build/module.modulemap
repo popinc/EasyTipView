@@ -1,0 +1,4 @@
+module EasyTipView {
+    header "/Users/marc/dev/EasyTipView/.build/x86_64-apple-macosx/debug/EasyTipView.build/EasyTipView-Swift.h"
+    requires objc
+}

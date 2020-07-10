@@ -1,0 +1,25 @@
+{
+  "allExecutables" : [
+
+  ],
+  "builtTestProducts" : [
+    {
+      "packageName" : "EasyTipView",
+      "productName" : "EasyTipViewPackageTests",
+      "testBinary" : "\/Users\/marc\/dev\/EasyTipView\/.build\/x86_64-apple-macosx\/debug\/EasyTipViewPackageTests.xctest\/Contents\/MacOS\/EasyTipViewPackageTests"
+    }
+  ],
+  "copyCommands" : {
+
+  },
+  "rootExecutables" : [
+
+  ],
+  "swiftTargetMap" : {
+    "C.EasyTipView-debug.module" : "EasyTipView",
+    "C.EasyTipViewTests-debug.module" : "EasyTipViewTests"
+  },
+  "testDiscoveryCommands" : {
+
+  }
+}

@@ -1,0 +1,241 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Tests"
+provides-nominal:
+- "16EasyTipViewTests0D0C"
+provides-member:
+- ["16EasyTipViewTests0D0C", ""]
+provides-dynamic-lookup:
+- "setUp"
+- "superview"
+- "testAutoPositionAdjustmentAny"
+- "testAutoPositionAdjustmentBottom"
+- "testAutoPositionAdjustmentLeft"
+- "testAutoPositionAdjustmentRight"
+- "testAutoPositionAdjustmentTop"
+- "testViewPositionAny"
+- "testViewPositionBottom"
+- "testViewPositionLeft"
+- "testViewPositionRight"
+- "testViewPositionTop"
+- "view"
+depends-top-level:
+- !private "-"
+- !private "=="
+- !private "==="
+- "AssignmentPrecedence"
+- !private "CGRect"
+- !private "EasyTipView"
+- !private "IntegerLiteralType"
+- "Tests"
+- "UIView"
+- !private "XCTAssert"
+- "XCTestCase"
+depends-member:
+- !private ["So6CGRectV", "init"]
+- !private ["s7CVarArgP", "CGRect"]
+- !private ["s7CVarArgP", "EasyTipView"]
+- ["s7CVarArgP", "UIView"]
+- !private ["s7CVarArgP", "XCTAssert"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "setUp"]
+- !private ["s7CVarArgP", "superview"]
+- !private ["s7CVarArgP", "view"]
+- !private ["s28CustomDebugStringConvertibleP", "CGRect"]
+- !private ["s28CustomDebugStringConvertibleP", "EasyTipView"]
+- ["s28CustomDebugStringConvertibleP", "UIView"]
+- !private ["s28CustomDebugStringConvertibleP", "XCTAssert"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "setUp"]
+- !private ["s28CustomDebugStringConvertibleP", "superview"]
+- !private ["s28CustomDebugStringConvertibleP", "view"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s23CustomStringConvertibleP", "CGRect"]
+- !private ["s23CustomStringConvertibleP", "EasyTipView"]
+- ["s23CustomStringConvertibleP", "UIView"]
+- !private ["s23CustomStringConvertibleP", "XCTAssert"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "setUp"]
+- !private ["s23CustomStringConvertibleP", "superview"]
+- !private ["s23CustomStringConvertibleP", "view"]
+- !private ["Se", "init"]
+- !private ["SE", "init"]
+- !private ["SQ", "CGRect"]
+- !private ["SQ", "EasyTipView"]
+- ["SQ", "UIView"]
+- !private ["SQ", "XCTAssert"]
+- ["SQ", ""]
+- !private ["SQ", "init"]
+- !private ["SQ", "setUp"]
+- !private ["SQ", "superview"]
+- !private ["SQ", "view"]
+- !private ["SH", "CGRect"]
+- !private ["SH", "EasyTipView"]
+- ["SH", "UIView"]
+- !private ["SH", "XCTAssert"]
+- ["SH", ""]
+- !private ["SH", "setUp"]
+- !private ["SH", "superview"]
+- !private ["SH", "view"]
+- !private ["So8NSObjectC", "CGRect"]
+- !private ["So8NSObjectC", "EasyTipView"]
+- ["So8NSObjectC", "UIView"]
+- !private ["So8NSObjectC", "XCTAssert"]
+- ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "setUp"]
+- !private ["So8NSObjectC", "superview"]
+- ["So8NSObjectC", "testAutoPositionAdjustmentAny"]
+- ["So8NSObjectC", "testAutoPositionAdjustmentBottom"]
+- ["So8NSObjectC", "testAutoPositionAdjustmentLeft"]
+- ["So8NSObjectC", "testAutoPositionAdjustmentRight"]
+- ["So8NSObjectC", "testAutoPositionAdjustmentTop"]
+- ["So8NSObjectC", "testViewPositionAny"]
+- ["So8NSObjectC", "testViewPositionBottom"]
+- ["So8NSObjectC", "testViewPositionLeft"]
+- ["So8NSObjectC", "testViewPositionRight"]
+- ["So8NSObjectC", "testViewPositionTop"]
+- !private ["So8NSObjectC", "view"]
+- !private ["So8NSObjectP", "CGRect"]
+- !private ["So8NSObjectP", "EasyTipView"]
+- ["So8NSObjectP", "UIView"]
+- !private ["So8NSObjectP", "XCTAssert"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "setUp"]
+- !private ["So8NSObjectP", "superview"]
+- !private ["So8NSObjectP", "view"]
+- !private ["16EasyTipViewTests0D0C", "CGRect"]
+- !private ["16EasyTipViewTests0D0C", "EasyTipView"]
+- ["16EasyTipViewTests0D0C", "UIView"]
+- !private ["16EasyTipViewTests0D0C", "XCTAssert"]
+- ["16EasyTipViewTests0D0C", "deinit"]
+- ["16EasyTipViewTests0D0C", "init"]
+- ["16EasyTipViewTests0D0C", "setUp"]
+- !private ["16EasyTipViewTests0D0C", "superview"]
+- ["16EasyTipViewTests0D0C", "testAutoPositionAdjustmentAny"]
+- ["16EasyTipViewTests0D0C", "testAutoPositionAdjustmentBottom"]
+- ["16EasyTipViewTests0D0C", "testAutoPositionAdjustmentLeft"]
+- ["16EasyTipViewTests0D0C", "testAutoPositionAdjustmentRight"]
+- ["16EasyTipViewTests0D0C", "testAutoPositionAdjustmentTop"]
+- ["16EasyTipViewTests0D0C", "testViewPositionAny"]
+- ["16EasyTipViewTests0D0C", "testViewPositionBottom"]
+- ["16EasyTipViewTests0D0C", "testViewPositionLeft"]
+- ["16EasyTipViewTests0D0C", "testViewPositionRight"]
+- ["16EasyTipViewTests0D0C", "testViewPositionTop"]
+- !private ["16EasyTipViewTests0D0C", "view"]
+- !private ["So11XCTActivityP", "CGRect"]
+- !private ["So11XCTActivityP", "EasyTipView"]
+- ["So11XCTActivityP", "UIView"]
+- !private ["So11XCTActivityP", "XCTAssert"]
+- ["So11XCTActivityP", ""]
+- !private ["So11XCTActivityP", "setUp"]
+- !private ["So11XCTActivityP", "superview"]
+- !private ["So11XCTActivityP", "view"]
+- !private ["So17XCTWaiterDelegateP", "CGRect"]
+- !private ["So17XCTWaiterDelegateP", "EasyTipView"]
+- ["So17XCTWaiterDelegateP", "UIView"]
+- !private ["So17XCTWaiterDelegateP", "XCTAssert"]
+- ["So17XCTWaiterDelegateP", ""]
+- !private ["So17XCTWaiterDelegateP", "setUp"]
+- !private ["So17XCTWaiterDelegateP", "superview"]
+- !private ["So17XCTWaiterDelegateP", "view"]
+- !private ["So6XCTestC", "CGRect"]
+- !private ["So6XCTestC", "EasyTipView"]
+- ["So6XCTestC", "UIView"]
+- !private ["So6XCTestC", "XCTAssert"]
+- ["So6XCTestC", "init"]
+- ["So6XCTestC", "setUp"]
+- !private ["So6XCTestC", "superview"]
+- ["So6XCTestC", "testAutoPositionAdjustmentAny"]
+- ["So6XCTestC", "testAutoPositionAdjustmentBottom"]
+- ["So6XCTestC", "testAutoPositionAdjustmentLeft"]
+- ["So6XCTestC", "testAutoPositionAdjustmentRight"]
+- ["So6XCTestC", "testAutoPositionAdjustmentTop"]
+- ["So6XCTestC", "testViewPositionAny"]
+- ["So6XCTestC", "testViewPositionBottom"]
+- ["So6XCTestC", "testViewPositionLeft"]
+- ["So6XCTestC", "testViewPositionRight"]
+- ["So6XCTestC", "testViewPositionTop"]
+- !private ["So6XCTestC", "view"]
+- !private ["So10XCTestCaseC", "CGRect"]
+- !private ["So10XCTestCaseC", "EasyTipView"]
+- ["So10XCTestCaseC", "UIView"]
+- !private ["So10XCTestCaseC", "XCTAssert"]
+- ["So10XCTestCaseC", ""]
+- ["So10XCTestCaseC", "init"]
+- ["So10XCTestCaseC", "setUp"]
+- !private ["So10XCTestCaseC", "superview"]
+- ["So10XCTestCaseC", "testAutoPositionAdjustmentAny"]
+- ["So10XCTestCaseC", "testAutoPositionAdjustmentBottom"]
+- ["So10XCTestCaseC", "testAutoPositionAdjustmentLeft"]
+- ["So10XCTestCaseC", "testAutoPositionAdjustmentRight"]
+- ["So10XCTestCaseC", "testAutoPositionAdjustmentTop"]
+- ["So10XCTestCaseC", "testViewPositionAny"]
+- ["So10XCTestCaseC", "testViewPositionBottom"]
+- ["So10XCTestCaseC", "testViewPositionLeft"]
+- ["So10XCTestCaseC", "testViewPositionRight"]
+- ["So10XCTestCaseC", "testViewPositionTop"]
+- !private ["So10XCTestCaseC", "view"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "CGRect"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "EasyTipView"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "UIView"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "XCTAssert"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "setUp"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "superview"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "view"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "CGRect"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "EasyTipView"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "UIView"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "XCTAssert"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", ""]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "setUp"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "superview"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "view"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+depends-nominal:
+- !private "So6CGRectV"
+- "s7CVarArgP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SE"
+- "SQ"
+- "SH"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- "16EasyTipViewTests0D0C"
+- "So11XCTActivityP"
+- "So17XCTWaiterDelegateP"
+- "So6XCTestC"
+- "So10XCTestCaseC"
+- !private "s30_CustomPlaygroundQuickLookableP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Swift.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib/XCTest.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Users/marc/dev/EasyTipView/.build/x86_64-apple-macosx/debug/EasyTipView.swiftmodule"
+- "/Users/marc/dev/EasyTipView/.build/x86_64-apple-macosx/debug/EasyTipView.build/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/xpc/XPC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTest.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "dd12330f63d6dc163010175825ba3593"

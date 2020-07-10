@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+options: "0cde5415407601090d45372962d00bbe"
+build_time: [1594408243, 721694000]
+inputs:
+  "/Users/marc/dev/EasyTipView/Sources/EasyTipView/EasyTipView.swift": [1594407908, 110040160]
